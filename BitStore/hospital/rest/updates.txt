@@ -1,0 +1,9 @@
+Update in API :-
+
+1) api name => "inventory_details"
+
+ 		-> Now, one more parameter will be sent to you, named as, "inventory_id"
+ 
+ 2) api name => "do_return_stock"
+ 		
+ 		-> One more parameter is complusory to send for returning particular stock. That is "inventory_id"
